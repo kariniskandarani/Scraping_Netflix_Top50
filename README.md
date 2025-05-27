@@ -22,7 +22,10 @@ This project combines web scraping, data engineering, and data visualization to 
 - Clean and organize the data using Python
 - Store the dataset in an SQLite database
 - Perform SQL queries for deeper exploration
-- Analyze and visualize trends in IMDb ratings, genres, durations, and 
+- Analyze and visualize trends in IMDb ratings, genres, durations, and actors appearances
+
+## Project Google Collaboratory Notebook 
+[Code Access Link](https://colab.research.google.com/drive/1RjnppiYmtDzs-2VaXo4f1x1yKOR-6Uet?usp=sharing)
 
 ## Top 50 best Netflix Movies Analysis PPT
 [Access link](https://docs.google.com/presentation/d/1bwlOd2x_xweSkhG-CD5Arv8ylIdK8Vh4QWHZ-BkUS1w/edit?slide=id.p#slide=id.p)
