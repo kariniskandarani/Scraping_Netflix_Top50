@@ -15,7 +15,7 @@
 
 This project combines web scraping, data engineering, and data visualization to analyze the top 50 Netflix movies. Data is extracted from Digital Trends using BeautifulSoup, stored in a SQLite database, and analyzed through SQL queries and visualizations.The final report explores IMDb rating trends, genre distribution, actor appearances, and movie durations.
 
-## 🚀 Project Objective
+##  Project Objective 🚀
 
 - Scrape Netflix's Top 50 movie list from [Digital Trends](https://www.digitaltrends.com/movies/best-movies-on-netflix/)
 - Clean and organize the data using Python
